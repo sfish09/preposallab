@@ -8,7 +8,7 @@ Renpy visual novel
 
 ## If you plan to collaborate with one or two classmates, what are their names?
 
-Tezz Aidee
+None
 
 ## Do you have any questions of your own?
 
